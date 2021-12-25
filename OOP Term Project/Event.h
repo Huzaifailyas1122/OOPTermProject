@@ -66,6 +66,8 @@ void Event::Addevent()
 				if (found != std::string::npos)
 				{
 					// Slot already booked
+					//Testing github
+					//created development branch
 				}
 				
 				if (checkfordateexistence == savefile)
