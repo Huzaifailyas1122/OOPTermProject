@@ -1,0 +1,6 @@
+1- Add Event 
+2- Edit Your Event  
+3- Detail of Events 
+4- List of Events 
+5- Scheduel 
+6- Exit
