@@ -68,6 +68,9 @@ void Event::Addevent()
 					// Slot already booked
 					//Testing github
 					//created development branch
+
+					//Testing commit 2 
+					//Test
 				}
 				
 				if (checkfordateexistence == savefile)
